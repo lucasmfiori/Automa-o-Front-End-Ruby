@@ -1,0 +1,3 @@
+default: --publish-quiet URL=https://www.linkedin.com/
+homolog: --publish-quiet URL=http://www.google.com
+prod: --publish-quiet URL=https://www.linkedin.com/
